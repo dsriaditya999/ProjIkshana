@@ -1,5 +1,5 @@
-# ProjIkshana
-Ikshana : An FMCW Radar Module
+
+# Ikshana : An FMCW Radar Module
 
 
 Advancement of technology in various fields like Signal Processing and millimeter-wave (mm-wave) semiconductor technology has led to significant improvements in the automobile industry. Recently, a lot of path-breaking research done for enhancing the performance of Autonomous Vehicles, has given a colossal boost to Advanced Driving Assistance Systems (ADAS). In this context, automotive radar has emerged as a low-cost system that provides robust performance in inclement environmental conditions, such as heavy precipitation, pollution, or bad illumination.
