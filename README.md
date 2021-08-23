@@ -2,7 +2,8 @@
 # Ikshana : An FMCW Radar Module
 
 
-_(Submitted Proposal as a part of the Swadeshi Microprocessor Challenge being conducted by Ministry of Electronics and Information Technology (Govt. of India) to promote the use of indigenous microprocessors in innovative solutions)_
+_Submitted Proposal as a part of the Swadeshi Microprocessor Challenge being conducted by Ministry of Electronics and Information Technology (Govt. of India) to promote the use of indigenous microprocessors in innovative solutions._
+_Credential : https://www.pronetin.com/share.php?C0003/2408202101023669_
 
 
 Advancement of technology in various fields like Signal Processing and millimeter-wave (mm-wave) semiconductor technology has led to significant improvements in the automobile industry. Recently, a lot of path-breaking research done for enhancing the performance of Autonomous Vehicles, has given a colossal boost to Advanced Driving Assistance Systems (ADAS). In this context, automotive radar has emerged as a low-cost system that provides robust performance in inclement environmental conditions, such as heavy precipitation, pollution, or bad illumination.
